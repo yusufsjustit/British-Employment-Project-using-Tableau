@@ -3,7 +3,7 @@ Change of employment in industries from 2011-2014.
 
 This is a space for your summary of the project.
 
-[Data Soruce](https://public.tableau.com/app/learn/sample-data)
+[Data Source](https://public.tableau.com/app/learn/sample-data)
 
 
 

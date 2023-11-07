@@ -1,7 +1,45 @@
-# British-Employment-Project-using-Tableau
-Change of employment in industries from 2011-2014. 
+# Data Analysis of British Employment Dataset
 
-This is a space for your summary of the project.
+## Summary
+
+This repository contains the documentation and code for a data analysis project that focuses on the British Employment dataset, sourced from Tableau Public. The analysis was performed using a combination of Microsoft Excel and Tableau, providing valuable insights into the employment trends in the United Kingdom.
+
+## Project Overview
+
+**Objective:**
+The primary objective of this project is to explore and analyze the British Employment dataset, shedding light on various aspects of employment in the UK over time.
+
+**Data Source:**
+The dataset used in this project was obtained from Tableau Public, providing a rich and comprehensive source of employment-related information.
+
+**Tools Used:**
+- Microsoft Excel: Excel was used for data cleaning, preprocessing, and initial exploration.
+- Tableau: Tableau was employed for in-depth data visualization and analysis, enabling us to create interactive dashboards.
+
+**Key Highlights:**
+- Data Cleaning: The dataset underwent rigorous cleaning to ensure data quality and consistency.
+- Data Visualization: Tableau was utilized to create engaging visualizations and interactive dashboards that offer a clear representation of the employment trends.
+- Analysis: Various statistical and analytical techniques were employed to extract valuable insights from the data.
+
+**Results:**
+The project yielded valuable insights into the British employment landscape, including trends, regional variations, and factors influencing employment patterns. The findings are presented through visualizations and summaries in the project documentation.
+
+## Repository Contents
+
+- **Data:** This folder contains the raw and cleaned data files used in the analysis.
+- **Code:** The code used for data preprocessing, analysis, and visualization is available here.
+- **Documentation:** The documentation provides detailed explanations of the data analysis process and the insights gained from the project.
+- **Visualizations:** Interactive Tableau visualizations are shared in this section.
+
+## Getting Started
+
+To get started with this project, you can follow these steps:
+
+1. Clone the repository to your local machine.
+2. Explore the 'Documentation' section to gain an understanding of the project's objectives and findings.
+3. Access the 'Code' folder for details on data preprocessing and analysis.
+4. Interact with the visualizations in the 'Visualizations' section to explore employment trends interactively.
+
 
 [Data Source](https://public.tableau.com/app/learn/sample-data)
 
